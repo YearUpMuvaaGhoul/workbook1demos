@@ -28,6 +28,7 @@ public class Demo1 {
 
         System.out.println("If " + name + " did not watch TV, it would be like a " + workWeeksPerYearWatchingTV + " week vacation every year.");
 
+            // Math problem for solving for how many vacation weeks she would have, if she didn't watch TV;
 
         System.out.println(greeting);
     }
